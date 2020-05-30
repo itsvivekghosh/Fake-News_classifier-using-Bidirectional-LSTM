@@ -12,5 +12,5 @@ author: @ Vivek Ghosh
 '''
   <br>
   <span>
-  link to the dataset: <a link="https://www.kaggle.com/c/fake-news/data">kaggle fake news classifier</a>
+  link to the dataset: <a href="https://www.kaggle.com/c/fake-news/data">kaggle fake news classifier</a>
   <span>
