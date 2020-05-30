@@ -4,9 +4,9 @@ using Bidirectional LSTM classification of FAKE News..
 ***
 <br>
 The dataset was collected from Kaggle:
-<br>
+<br><br>
 '''
-<be>
+<br>
 author: @ Vivek Ghosh
   <br>
 '''
